@@ -1,7 +1,7 @@
 Keras==2.4.3
 streamlit==0.82.0
 pmdarima==1.8.2
-pandas==1.1.1
+pandas==1.2.4
 tensorflow==2.5.0
 numpy==1.19.5
 matplotlib==3.4.2
